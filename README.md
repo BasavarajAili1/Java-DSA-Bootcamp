@@ -1,2 +1,2 @@
-# JavaDSABootcamp
+# Java DSA Bootcamp
  DSA Bootcamp 
